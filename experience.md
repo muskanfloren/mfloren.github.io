@@ -1,5 +1,5 @@
 # Education
-* **Ph.D.** 2015-Present, University of New Mexico Health Sciences Center, Albuquerque, NM
+* **Ph.D. Candidate** 2015-Present, University of New Mexico Health Sciences Center, Albuquerque, NM
   - Biomedical Sciences Graduate Program
   - Mentor: Jennifer M. Gillette, Ph.D. 
 * **B.S.** 2011, University of California, Santa Cruz, CA
