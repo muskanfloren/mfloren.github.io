@@ -4,15 +4,24 @@
 @import "{{ site.theme }}";
 
 header ul {
+  background: unset;
+  border: unset;
+  border-right: unset;
   height: unset;
   width: unset;
 }
 header li {
+  border-right: unset;
   float: unset;
   width: unset;
 }
 
 header ul a {
- font-size:13px;
- padding:6px;
+  line-height: unset;
+  padding-top: unset;
+  height: unset;
+  border: 1px solid #e0e0e0;
+  background: #f4f4f4;
+  font-size:13px;
+  padding:6px;
 }
