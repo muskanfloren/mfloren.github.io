@@ -35,7 +35,16 @@ header img {
   max-width:270px;
 }
 
-
 p {
   text-align: justify;
+}
+
+/* make the youtube embeds stay inside the lines! */
+iframe {
+  max-width: 100%;
+}
+
+/* center Muskan's name on the header */
+header h1 {
+  text-align: center;
 }
