@@ -4,6 +4,7 @@ Leukemia Chemoresistance"
 * **2016-2018**: UNM Spatiotemporal Modeling Center Graduate Fellowship in Systems and Computational Biology
 
 # Honors and Awards
+* **2020**      George D. Montoya Research Scholarship Recipient
 * **2020**			1st Place Oral Presentation, BSGP Student Research Day 
 * **2019**			UNM Cancer Research Day Outstanding Poster Presentation
 * **2019**			UNM GPSA Professional Development Grant
