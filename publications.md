@@ -1,5 +1,7 @@
 # Publications
 
+**Muskan Floren**, Jennifer M. Gillette. 2021. "Acute myeloid leukemia: Therapy resistance and a potential role for tetraspanin membrane scaffolds", *The International Journal of Biochemistry & Cell Biology*. [(full paper)](https://www.sciencedirect.com/science/article/pii/S1357272521001072)
+
 **Floren, M.**, S. Restrepo Cruz, C. M. Termini, K. D. Marjon, K. A. Lidke, and J. M. Gillette. 2020. "Tetraspanin CD82 drives acute myeloid leukemia chemoresistance by modulating protein kinase C alpha and beta1 integrin activation", *Oncogene*.
 
 Saito-Reis, C. A., K. D. Marjon, E. M. Pascetti, **M. Floren**, and J. M. Gillette. 2018. "The tetraspanin CD82 regulates bone marrow homing and engraftment of hematopoietic stem and progenitor cells", *Molecular Biology of the Cell*, 29: 2946-58.
