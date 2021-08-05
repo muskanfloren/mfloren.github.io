@@ -1,5 +1,5 @@
 # Education
-* **Ph.D. Candidate** 2015-Present, University of New Mexico Health Sciences Center, Albuquerque, NM
+* **Ph.D. Candidate** 2015-2020, University of New Mexico Health Sciences Center, Albuquerque, NM
   - Biomedical Sciences Graduate Program
   - Mentor: Jennifer M. Gillette, Ph.D. 
 * **B.S.** 2011, University of California, Santa Cruz, CA
@@ -8,7 +8,9 @@
 
 # Employment
 
-* **Graduate Student**, 2015-Present, Gillette Lab, Pathology Department, University of New Mexico Health Sciences Center, Albuquerque, NM
+* **Senior Scientist**, 2021-Present, AstraZeneca Hematology, South San Francisco, CA
+* **Scientist**, 2020-2021, AstraZeneca Hematology, South San Francisco, CA
+* **Graduate Student**, 2015-2020, Gillette Lab, Pathology Department, University of New Mexico Health Sciences Center, Albuquerque, NM
 * **Scientist II**, 2015-2015, Roche Molecular Systems, Genomics and Oncology Department, Pleasanton, CA
 * **Scientist I**, 2012-2015, Roche Molecular Systems, Genomics and Oncology Department, Pleasanton, CA
 * **Research Associate**, 2011-2012, Siemens Healthcare Diagnostics, Infectious Disease Department, Berkeley, CA
