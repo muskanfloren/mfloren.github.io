@@ -1,5 +1,11 @@
 # Publications
 
+Wu, X., Islam, S., Oien, D.B., Tokheim, C., Beacom, A., Aryal, N., Hsueh, M., **Floren, M.**, Ross-Thriepland, D., Barrell, D. and McDermott, U. (2023). A Multi-Modal Analysis of Acquired Resistance to Acalabrutinib and Pirtobrutinib Provides Potential Strategies to Augment Treatment Outcome with BTKi Drugs. Blood, 142, 1452.
+
+Shah, R., Wander, H., Hsueh, M., **Floren, M.**, Liu, W., Cheung, P., ... & Auclair, D. (2024). Multiplexed flow cytometry based immunophenotyping paired with functional ex vivo (MFLEX) drug profiling informs potential efficacy of therapeutic agents in acute myeloid leukemia. *Cancer Research*, 84(6_Supplement), 3904-3904.
+
+Pascetti, E.M., Restrepo-Cruz, S., **Floren, M.**, Saito-Reis, C.A., Balise, V.D. and Gillette, J.M., 2021. Tetraspanin CD82 Regulates Hematopoietic Stem and Progenitor Cell Quiescence and Regeneration. *Blood*, 138(Supplement 1), pp.3264-3264.
+
 **Muskan Floren**, Jennifer M. Gillette. 2021. "Acute myeloid leukemia: Therapy resistance and a potential role for tetraspanin membrane scaffolds", *The International Journal of Biochemistry & Cell Biology*. [(full paper)](https://www.sciencedirect.com/science/article/pii/S1357272521001072)
 
 **Floren, M.**, S. Restrepo Cruz, C. M. Termini, K. D. Marjon, K. A. Lidke, and J. M. Gillette. 2020. "Tetraspanin CD82 drives acute myeloid leukemia chemoresistance by modulating protein kinase C alpha and beta1 integrin activation", *Oncogene*. [(full paper)](https://www.nature.com/articles/s41388-020-1261-0)
