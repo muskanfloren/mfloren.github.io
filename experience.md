@@ -1,14 +1,16 @@
 # Education
-* **Ph.D. Candidate** 2015-2020, University of New Mexico Health Sciences Center, Albuquerque, NM
+* **Ph.D.** 2020, University of New Mexico Health Sciences Center, Albuquerque, NM
   - Biomedical Sciences Graduate Program
-  - Mentor: Jennifer M. Gillette, Ph.D. 
+  - Mentor: Jennifer M. Gillette, Ph.D.
+  - Dissertation topic: *Impact of CD82 Expression on Acute Myeloid Leukemia Chemosensitivy and Quiescence*
 * **B.S.** 2011, University of California, Santa Cruz, CA
   - B.S. Biochemistry and Molecular Biology
   - Honors Senior Thesis: Survey of methylation patterns present in environmental bacterial communities
 
 # Employment
 
-* **Senior Scientist**, 2021-Present, AstraZeneca Hematology, South San Francisco, CA
+* **Translational Medicine Lead**, 2022-Present, AstraZeneca Hematology, South San Francisco, CA
+* **Senior Scientist**, 2021-2022, AstraZeneca Hematology, South San Francisco, CA
 * **Scientist**, 2020-2021, AstraZeneca Hematology, South San Francisco, CA
 * **Graduate Student**, 2015-2020, Gillette Lab, Pathology Department, University of New Mexico Health Sciences Center, Albuquerque, NM
 * **Scientist II**, 2015-2015, Roche Molecular Systems, Genomics and Oncology Department, Pleasanton, CA
